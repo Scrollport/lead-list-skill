@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "lead-list",
+  "description": "Build a fast, priced lead list: companies, a decision-maker at each and a verified work email, with the bill for every call. Powered by Scrollport.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Scrollport"
+  },
+  "homepage": "https://github.com/Scrollport/lead-list-skill",
+  "repository": "https://github.com/Scrollport/lead-list-skill",
+  "license": "MIT",
+  "skills": "./skills"
+}
