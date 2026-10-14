@@ -4,14 +4,14 @@
     "name": "Scrollport"
   },
   "metadata": {
-    "description": "The Scrollport Lead List Skill.",
-    "version": "1.0.0"
+    "description": "The Scrollport Find Leads Skill.",
+    "version": "2.1.0"
   },
   "plugins": [
     {
       "name": "lead-list",
-      "description": "Profile in, CSV out: companies, decision-makers and verified work emails, with a per-call bill.",
-      "version": "1.0.0",
+      "description": "Describe your customer; get decision-makers with verified work emails, why each company fits and a CRM-ready CSV, with a per-call bill.",
+      "version": "2.1.0",
       "source": "./"
     }
   ]

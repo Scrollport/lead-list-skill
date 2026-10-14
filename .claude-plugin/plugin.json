@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "lead-list",
-  "description": "Build a fast, priced lead list: companies, a decision-maker at each and a verified work email, with the bill for every call. Powered by Scrollport.",
-  "version": "1.0.0",
+  "description": "Find Leads: describe your customer in one sentence and get decision-makers with verified work emails, why each company fits and a CRM-ready CSV, with the bill for every call. Powered by Scrollport.",
+  "version": "2.1.0",
   "author": {
     "name": "Scrollport"
   },
